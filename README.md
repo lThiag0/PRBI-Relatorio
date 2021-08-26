@@ -17,7 +17,7 @@
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%lThiag0%2PRBI-Relatorio">
   </a>
   
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+  <a href="https://github.com/lThiag0/PRBI-Relatorio/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lThiag0/PRBI-Relatorio">
   </a>
     
@@ -38,18 +38,9 @@ Tabela de conteúdos
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Funcionalidades](#-funcionalidades)
    * [Layout](#-layout)
-     * [Mobile](#mobile)
-     * [Web](#web)
-   * [Como executar o projeto](#-como-executar-o-projeto)
-     * [Pré-requisitos](#pré-requisitos)
-     * [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
-     * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
+     * [Desktop](#Desktop)
    * [Tecnologias](#-tecnologias)
-     * [WebSite](#user-content-website--react----typescript)
-     * [Server](#user-content-server--nodejs----typescript)
-     * [Mobile](#user-content-mobile--react-native----typescript)
-   * [Contribuidores](#-contribuidores)
-   * [Como contribuir no projeto](#-como-contribuir-no-projeto)
+     * [Desktop](#user-content-website--Desktop----typescript)
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
 <!--te-->
@@ -87,7 +78,7 @@ PRBI Relatório - é uma forma de criar relatórios do dia a dia de maneira prá
 
 ---
 
-## Layout
+## 🎨 Layout
 
 O layout da aplicação é simples e prático.
 
@@ -120,7 +111,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## Autor
+## 🦸 Autor
 
 <a href="#">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/35664788?s=400&u=aa369eb231c7e59df16175f102af672bcf850acd&v=4" width="100px;" alt=""/>
@@ -133,7 +124,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
-## Licença
+## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 

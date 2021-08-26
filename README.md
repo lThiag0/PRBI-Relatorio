@@ -85,15 +85,15 @@ O layout da aplicação é simples e prático.
 ### Desktop
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/MenuInicial.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/MenuInicial.png">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/CriarRelatorio.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/CriarRelatorio.png">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/EditarRelatorio.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/EditarRelatorio.png">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/ConfigurarRelatorio.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/ConfigurarRelatorio.png">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/ExtrairRelatorio.png" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/ExtrairRelatorio.png">
 </p>
 
 ---

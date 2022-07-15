@@ -1,11 +1,11 @@
 
 
 <h1 align="center">
-    <a href="#" alt="site do ecoleta"> PRBI Relatório </a>
+    <a href="#" alt="feito em C#"> Relatório Médico </a>
 </h1>
 
 <h3 align="center">
-    Criador de relatórios de PRBI, gerenciar, relatar, excluir e modificar relatórios.
+    Criador de relatórios médicos, gerenciar, relatar, excluir e modificar relatórios.
 </h3>
 
 <p align="center">
@@ -48,7 +48,7 @@ Tabela de conteúdos
 
 ## 💻 Sobre o projeto
 
-PRBI Relatório - é uma forma de criar relatórios do dia a dia de maneira prática rápido e fácil.
+Relatório médico - é uma forma de criar relatórios do dia a dia de maneira prática rápido e fácil.
 
 ---
 
@@ -58,8 +58,8 @@ PRBI Relatório - é uma forma de criar relatórios do dia a dia de maneira prá
   - [x] Criar relatórios 
     - Relatório do dia
     - Nome do segurado
-    - CPF do segurado
-    - Segurado compareceu
+    - CPF da pessoa
+    - Pessoa compareceu
     - Senha de atendimento
     - Horario de Agendamento
     - Perito

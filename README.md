@@ -57,7 +57,7 @@ Relatório médico - é uma forma de criar relatórios do dia a dia de maneira p
 - [x] Relatórios:
   - [x] Criar relatórios 
     - Relatório do dia
-    - Nome do segurado
+    - Nome da pessoa
     - CPF da pessoa
     - Pessoa compareceu
     - Senha de atendimento
